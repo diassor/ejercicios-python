@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 
-'''def factorial(number):
+def factorial(number):
     if number == 0:
         return 1
 
@@ -12,7 +12,9 @@ if __name__ == '__main__':
     number = int(input('Write any number: '))
 
     result = factorial(number)
-    print(result)'''
+    print(result)
+
+
 '''if (type(n)) != (type(1)):
     print('Solo numeros enteros')
     return -1
